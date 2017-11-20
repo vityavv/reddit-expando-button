@@ -1,4 +1,4 @@
-# Reddit Expando Button Expander
+# Reddit Expando Button Expander ![Icon](./icon.png)
 A chrome extension that automatically expands all images and videos on Reddit. This will *not* un-expand it on the comments page.
 ## Alternative version
 If you don't like using a chrome extension (or if you don't want it to be automatic), you can copy the following code and paste it into a new bookmark. Then, click it when you're on Reddit.
